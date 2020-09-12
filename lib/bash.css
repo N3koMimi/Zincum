@@ -1,0 +1,29 @@
+body{
+font-family: 'CCM';
+background-color: black;
+color: white;
+font-size: 24px;
+}
+.minimal{
+border: none;
+background: transparent;
+width: 50%;
+color: #444;
+font-family: 'CCM';
+font-size: 25px;
+}
+.shhh{
+width: 0;
+height: 0;
+content: none;
+background-color: transparent;
+border: none;
+}
+.login{
+border: 2px solid #444;
+background-color: transparent;
+padding: 4px;
+font-size: 20px;
+color: #888;
+font-family: 'CCM';
+}

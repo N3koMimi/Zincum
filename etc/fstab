@@ -1,0 +1,12 @@
+#A Zincum fstab is a file that adds directories accessible to all users
+#lets say you have a folder called share in folder /dev
+#then you would write something like below
+
+#NDX is just an index always should be DIR
+#Sname is the share dir name (any name)
+#Pusr is if you want to not give a specific user access to the share (usr1,usr2,usr3,...)
+#perm is permissions (full or view) (full is read/write , view is readOnly)
+
+#NDX Sname Pusr perm
+
+#DIR share none full

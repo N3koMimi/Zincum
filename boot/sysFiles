@@ -1,0 +1,6 @@
+#System critical files
+boot/boot.php
+etc/os-release
+etc/passwd
+etc/fstab
+#autochk
