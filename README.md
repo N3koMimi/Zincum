@@ -1,5 +1,4 @@
 # This project is dead, use Frosco instead
-you may wanna check https://github.com/NekoKitsune/Frosco
 
 # IMPORTANT NOTICE
 this build wont work out of the box , it just has the basic functions 'they are not connected'
