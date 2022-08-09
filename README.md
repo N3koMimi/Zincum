@@ -1,4 +1,6 @@
-# This project is dead, use Frosco instead
+# This project is dead.
+
+time to get rid of the old useless projects i started
 
 # IMPORTANT NOTICE
 this build wont work out of the box , it just has the basic functions 'they are not connected'
